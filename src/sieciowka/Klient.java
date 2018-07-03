@@ -12,7 +12,7 @@ public class Klient
 {
     public static void main(String[] args) throws IOException, ClassNotFoundException 
     {
-        int a = 0;
+        int a = 7;
         Scanner sc = new Scanner(System.in);
         int numerIndeksu;
         for(;;)
